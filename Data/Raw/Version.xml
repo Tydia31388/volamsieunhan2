@@ -1,7 +1,0 @@
-﻿<Config URL="http://volamsieunhan.ddns.net/">
-  <CdnUrl Url="http://volamsieunhan.ddns.net/" />
-  <Application VerText="JX1Mobile" VerCode="79"/>
-  <Resource VerText="JX1Mobile" VerCode="79" />
-  <Store AppsIosUrl="https://volam.sieunhan.mobi" AppsAndroidUrl="https://volam.sieunhan.mobi" Msg="Đã có phiên bản mới. Vui lòng tải về và cài đè lên phiên bản hiện tại để có được trải nghiệm tốt nhất." />
-  <UpdateInfo PushVoiceUrl="" GetVoiceUrl="" ServerListUrl="http://volamsieunhan.ddns.net/GetServerListTest.aspx" ServerListUrlBackUp="http://volamsieunhan.ddns.net/GetServerListTest.aspx" VerifyAccountSDK="http://volamsieunhan.ddns.net/VerifyAccount.aspx" LoginAccountSDK="http://volamsieunhan.ddns.net/LoginSDK.aspx" RegisterAccountSDK="http://volamsieunhan.ddns.net/RegisterSDK.aspx" FileUpdateUrl="UpdateList.xml" />
-</Config>
